@@ -8,8 +8,8 @@ Xây dựng ứng dụng quản lý thư viện sử dụng **Spring Data JPA** 
 
 ## 🏷 **Thông tin chung**
 
-* **Tên Project**: Library Management
-* **Công nghệ**: Java, Spring Data JPA, MySQL, Maven
+* **Tên Project**: Library Management.
+* **Công nghệ**: Java, Spring Data JPA, MySQL, Maven.
 * **Chức năng chính**: CRUD cho các bảng trong DB và quản lý quan hệ giữa chúng.
 
 ---
