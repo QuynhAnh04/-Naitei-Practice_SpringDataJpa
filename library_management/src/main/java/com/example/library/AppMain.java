@@ -5,7 +5,7 @@ import com.example.library.controller.BookConsoleController;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 
-public class App {
+public class AppMain {
     public static void main (String[] args){
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(LibConfig.class);
 
